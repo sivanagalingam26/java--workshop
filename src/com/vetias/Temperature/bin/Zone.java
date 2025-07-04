@@ -1,4 +1,4 @@
-package com.vetias.Temperature.bean;
+package com.vetias.Temperature.bin;
 public class Zone {
     private String name;
     private int ZoneID;

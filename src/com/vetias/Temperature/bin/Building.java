@@ -1,4 +1,4 @@
-package com.vetias.Temperature.bean;
+package com.vetias.Temperature.bin;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 

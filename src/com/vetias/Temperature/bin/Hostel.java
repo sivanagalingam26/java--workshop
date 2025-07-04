@@ -1,4 +1,4 @@
-package com.vetias.Temperature.bean;
+package com.vetias.Temperature.bin;
 
 public class Hostel extends Building {
     private String mess;

@@ -1,4 +1,4 @@
-import com.vetias.Temperature.bean.Building;
+import com.vetias.Temperature.bin.Building;
 
 public class Acdamicbuilding extends Building {
          
