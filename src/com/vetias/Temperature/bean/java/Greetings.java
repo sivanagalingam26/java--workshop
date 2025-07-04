@@ -1,4 +1,4 @@
-package com.vetias.java;
+package com.vetias.Temperature.bean.java;
 
 public class Greetings {
      

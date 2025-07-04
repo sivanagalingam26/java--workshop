@@ -9,4 +9,12 @@ public class Building {
     private LocalDateTime openDataTime;
     private LocalDateTime closDateTime;
 
+
+    
+     
+    public void printdetails(){
+        System.out.println(name);
+        
+    }
+
 }

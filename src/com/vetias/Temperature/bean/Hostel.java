@@ -1,5 +1,7 @@
 package com.vetias.Temperature.bean;
 
-public class Hostel {
+public class Hostel extends Building {
+    private String mess;
+    private double roomno;
 
 }
