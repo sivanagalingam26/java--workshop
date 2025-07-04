@@ -35,8 +35,49 @@ public class Location {
     public String getDescription(){
         return description;
     }
-    public String get(String ){
+    public void setCountry(String aCountry){
+        country = aCountry;
+    }
+    public String getCountry(){
+        return country;
+    }
+    public void setCity(String aCity){
+        city = aCity;
+    }
+    public String getCity(){
+        return city;
+    }
+    public void setAddress(String aAddress){
+        address = aAddress;
+    }
+    public String getAddress(){
+        return address;
+    }
+    public void setPostalcode(String aPostalcode){
+        postalcode = aPostalcode;
+    }
+    public String getPostalcode(){
+        return postalcode;
+    }
 
+    @Override
+    public String toString() {
+        return "Location { Name:"+name+
+                ",Latitude:"+latitude+
+                ",Longtidue:"+longtiude+
+                ",Description:"+description+
+                ",Country:"+country+
+                ",City:"+city+
+                ",Address:"+address+
+                ",Postalcode:"+postalcode;
 
+    }
 
+    
 }
+
+
+
+
+
+
