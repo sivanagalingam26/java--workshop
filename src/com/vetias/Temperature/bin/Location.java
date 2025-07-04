@@ -1,4 +1,4 @@
-package com.vetias.Temperature;
+package com.vetias.Temperature.bin;
 
 public class Location {
     private String name;
