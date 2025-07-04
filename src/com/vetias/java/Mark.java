@@ -1,4 +1,4 @@
-package com.vetias.Temperature.bin.java;
+package com.vetias.java;
 
 public class Mark {
 

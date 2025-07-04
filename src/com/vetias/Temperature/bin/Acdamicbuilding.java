@@ -1,5 +1,4 @@
-import com.vetias.Temperature.bin.Building;
-
+package com.vetias.Temperature.bin;
 public class Acdamicbuilding extends Building {
          
     private int roomno;
