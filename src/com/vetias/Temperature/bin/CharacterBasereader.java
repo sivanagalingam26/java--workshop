@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class CharacterBasereader {
     public static void main(String[] args) {
-        try (BufferedReader reader = new BufferedReader(new FileReader("README.nd"))) {
+        try (BufferedReader reader = new BufferedReader(new FileReader("README.md"))) {
     String line;
     while ((line = reader.readLine()) != null) {
         System.out.println(line);
