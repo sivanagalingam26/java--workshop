@@ -1,5 +1,5 @@
-package com.vetias.Temperature.bin;
-
+package com.vetias.Temperature.bin
+;
 import java.time.LocalTime;
 
 public class RegistrationTimeLeft {

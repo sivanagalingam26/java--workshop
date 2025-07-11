@@ -1,5 +1,5 @@
-package com.vetias.Temperature.bin.Collection;
-
+package com.vetias.Temperature.bin.Collection
+;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
