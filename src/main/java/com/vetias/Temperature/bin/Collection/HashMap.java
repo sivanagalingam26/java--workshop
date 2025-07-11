@@ -1,5 +1,5 @@
 package com.vetias.Temperature.bin.Collection;
 
-public class HashMap <> {
+public class HashMap {
 
 }
