@@ -19,7 +19,3 @@ public class EvenOddSplitExample {
         System.out.println(map.get(false));
     }
 }
-        
-    
-
-
