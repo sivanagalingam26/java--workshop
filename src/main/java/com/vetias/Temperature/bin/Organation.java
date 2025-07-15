@@ -9,8 +9,14 @@ public record Organation(String name,
      String website,
      String email,
      String contactNumber,
-     long registrationNumber) {
+     long registrationNumber,) {
 
+     public String description() {
+          // TODO Auto-generated method stub
+          throw new UnsupportedOperationException("Unimplemented method 'description'");
+     }
+
+    
 
     }
 
